@@ -11,7 +11,7 @@ from PIL import Image
 ### -------------------------
 ### TRATAMENTO DOS DADOS 
 ### -------------------------
-RAW_DATA_PATH = r"C:/Users/fabio/OneDrive/Estudos/Data Science - Comunidade DS/Analisando Dados com Python/Ciclo 8 - Projeto do Aluno/dataset/zomato.csv"
+RAW_DATA_PATH = r"dataset/zomato.csv"
 
 COUNTRIES = {
     1: "India",
